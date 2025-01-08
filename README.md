@@ -58,6 +58,7 @@ Este é um jogo simples de tiro ao alvo desenvolvido utilizando a biblioteca Pyg
 3. Clique com o mouse para atirar nos alvos.
 4. O jogo termina quando o tempo se esgota. Você pode pausar o jogo pressionando a tecla **ESC**.
 5. Pressione **S** para salvar o jogo a qualquer momento, inclusive na tela final.
+6. Após apertar **S**, volte para o terminal para digitar o nome com o qual deseja salvar o arquivo da partida.
 
 
 
